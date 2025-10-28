@@ -36,4 +36,6 @@ Proyek ini adalah prototipe dashboard "Wellness Tracker" yang dibangun dengan **
 - Prototipe ini didesain agar mudah di-extend: cukup ganti source data state dengan hasil fetch ke API nyata.
 - Fokus pada pengalaman pengguna: transisi lembut, hover effects, dan responsivitas.
 
+## Link Vercel :
+   https://emergency-call.vercel.app/
 --- 
